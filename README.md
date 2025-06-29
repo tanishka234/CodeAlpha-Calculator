@@ -19,6 +19,7 @@ It performs basic arithmetic operations (+, −, ×, ÷, %) and includes a clean
 
 ## 📸 Screenshots
 
+
 https://github.com/tanishka234/CodeAlpha-Calculator/blob/main/Screenshot%202025-06-30%20022741.png
 ---
 
