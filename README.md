@@ -19,7 +19,6 @@ It performs basic arithmetic operations (+, −, ×, ÷, %) and includes a clean
 
 ## 📸 Screenshots
 
-<img src="https://1drv.ms/i/c/43b4b41f2db83ca5/ERjrIQYecoVMm2kOSFsJGyUBlc5vvcMf5fM5DkRStKGDdw?e=NVYfFP" alt="Calculator UI" width="100%">
 
 ---
 
